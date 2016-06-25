@@ -1,2 +1,2 @@
 # nginx-trusty
-Nginx ubuntu 14.04(trusty) image
+Nginx 1.10 from ubuntu/trusty 14.04 base
